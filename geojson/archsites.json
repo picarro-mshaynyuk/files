@@ -1,0 +1,188 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "archsites.1",
+            "geometry": { "type": "Point", "coordinates": [593493, 4914730] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 1, "str1": "Signature Rock" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.2",
+            "geometry": { "type": "Point", "coordinates": [591950, 4923000] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 2, "str1": "No Name" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.3",
+            "geometry": { "type": "Point", "coordinates": [589860, 4922000] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 3, "str1": "Canyon Station" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.4",
+            "geometry": { "type": "Point", "coordinates": [590400, 4922820] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 4, "str1": "Spearfish Creek" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.5",
+            "geometry": { "type": "Point", "coordinates": [593549, 4925500] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 5, "str1": "No Name" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.6",
+            "geometry": { "type": "Point", "coordinates": [600375, 4925235] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 6, "str1": "Prairie Site" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.7",
+            "geometry": { "type": "Point", "coordinates": [606635, 4920773] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 7, "str1": "Jensen Pass" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.8",
+            "geometry": { "type": "Point", "coordinates": [595755, 4925300] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 8, "str1": "No Name" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.9",
+            "geometry": { "type": "Point", "coordinates": [601000, 4926310] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 9, "str1": "No Name" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.10",
+            "geometry": { "type": "Point", "coordinates": [602550, 4917370] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 10, "str1": "Slaughterhouse Gulch" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.11",
+            "geometry": { "type": "Point", "coordinates": [591635, 4924340] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 11, "str1": "No Name" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.12",
+            "geometry": { "type": "Point", "coordinates": [603000, 4925250] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 12, "str1": "Elkhorn Peak" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.13",
+            "geometry": { "type": "Point", "coordinates": [592100, 4921200] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 13, "str1": "No Name" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.14",
+            "geometry": { "type": "Point", "coordinates": [592600, 4922000] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 14, "str1": "No Name" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.15",
+            "geometry": { "type": "Point", "coordinates": [604194, 4925980] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 15, "str1": "No Name" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.16",
+            "geometry": { "type": "Point", "coordinates": [608200, 4915900] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 16, "str1": "Boulder Creek Cabin" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.17",
+            "geometry": { "type": "Point", "coordinates": [601400, 4925450] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 17, "str1": "Ridge" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.18",
+            "geometry": { "type": "Point", "coordinates": [591000, 4916000] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 18, "str1": "Cole Creek Mine" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.19",
+            "geometry": { "type": "Point", "coordinates": [607150, 4916650] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 19, "str1": "No Name" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.20",
+            "geometry": { "type": "Point", "coordinates": [593690, 4914479] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 20, "str1": "No Name" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.21",
+            "geometry": { "type": "Point", "coordinates": [608355, 4926490] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 21, "str1": "Whitewood Flats" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.22",
+            "geometry": { "type": "Point", "coordinates": [597945, 4918950] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 22, "str1": "Bob Miller" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.23",
+            "geometry": { "type": "Point", "coordinates": [607159, 4917000] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 23, "str1": "No Name" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.24",
+            "geometry": { "type": "Point", "coordinates": [591583, 4925280] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 24, "str1": "Hanson Ranch" }
+        },
+        {
+            "type": "Feature",
+            "id": "archsites.25",
+            "geometry": { "type": "Point", "coordinates": [602580, 4918480] },
+            "geometry_name": "the_geom",
+            "properties": { "cat": 25, "str1": "No Name" }
+        }
+    ],
+    "totalFeatures": 25,
+    "numberMatched": 25,
+    "numberReturned": 25,
+    "timeStamp": "2022-10-26T03:53:38.542Z",
+    "crs": {
+        "type": "name",
+        "properties": { "name": "urn:ogc:def:crs:EPSG::26713" }
+    }
+}
